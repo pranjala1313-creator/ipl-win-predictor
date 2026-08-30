@@ -8,7 +8,7 @@ The project uses historical IPL match data to train a classification model and p
 
 ## 🚀 Live Demo
 
-👉 **[Add your Streamlit demo link here](#)**
+👉 **[https://ipl-win-predictor-ml-model.streamlit.app](#)**
 
 ## 📌 Project Overview
 
